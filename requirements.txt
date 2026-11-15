@@ -1,0 +1,16 @@
+# Python 3.12 (testado com 3.12.10)
+
+# análise
+gpboost==1.8.0
+huggingface_hub==1.21.0
+lexicalrichness==0.5.1
+matplotlib==3.11.1
+numpy==2.0.2
+pandas==2.2.3
+scipy==1.18.0
+textstat==0.7.13
+
+# para rodar o notebook
+ipykernel==7.3.0
+jupyterlab==4.6.3
+nbconvert==7.17.1
